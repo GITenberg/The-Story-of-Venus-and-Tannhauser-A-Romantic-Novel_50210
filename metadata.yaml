@@ -1,4 +1,8 @@
 _repo: The-Story-of-Venus-and-Tannhauser-A-Romantic-Novel_50210
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 50210-h/images/cover.jpg
 creator:
   author:
     agent_name: Beardsley, Aubrey
@@ -7,6 +11,8 @@ creator:
     gutenberg_agent_id: '41820'
     url: http://www.gutenberg.org/2009/agents/41820
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/50210#The-Story-of-Venus-and-Tannhauser-A-Romantic-Novel
 gutenberg_issued: '2015-10-14'
 gutenberg_type: Text
 identifiers:
